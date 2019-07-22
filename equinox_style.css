@@ -127,13 +127,6 @@ a{
   font-family: 'Roboto', sans-serif;
 }
 
-.click{
-  width: 20%;
-  position: absolute;
-  top: 97%;
-  right: 5%;
-  transform: rotate(15deg)
-}
 
 .nyhan{
   color: #d4d4d4;
@@ -221,5 +214,36 @@ h2{
   letter-spacing: 1.7px;
   margin-top: 2%;
 
+}
 
+.equinox{
+  width: 55%;
+  height:70%;
+  position: absolute;
+  top: 380%;
+  left: 22.5%;
+  border: 3px solid white;
+}
+
+.drawn_logo{
+  width: 75%;
+  margin-top: 5%;
+  margin-left: 3%;
+}
+
+.click{
+  width: 18%;
+  border: 3px solid white;
+  position: absolute;
+  top: 65%;
+  left: 2%;
+}
+
+.click_me{
+  font-family: 'Roboto', sans-serif;
+  color: #ffffff;
+  letter-spacing: 15px;
+  line-height: 1.8
+  margin: 5px;
+  text-align: center;
 }
