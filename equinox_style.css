@@ -1,0 +1,225 @@
+body{
+  background: #323436;
+  position: absolute;
+  width: 100%;
+  height: 250%;
+}
+
+.top{
+  width: 55%;
+  border: 3px solid white;
+  margin-left: 22.5%;
+  margin-top: 20%;
+  margin-bottom: 20%;
+  position: absolute;
+}
+h1{
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  letter-spacing: 15px;
+  font-size: 37px;
+
+}
+
+.xjunghye{
+  position: absolute;
+  left: 50%;
+  top: 5%;
+}
+
+.logo_equinox{
+  width: 40%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-left: 5%;
+
+}
+
+.dartmouth{
+  width: 55%;
+  height: auto;
+  position: absolute;
+  top: 40%;
+  left: 22.5%;
+  border: 3px solid white;
+}
+
+.text{
+  font-family: 'Roboto', sans-serif;
+  color: #d4d4d4;
+  letter-spacing: 1.7px;
+  margin: 10% 15px 10% 15px;
+
+}
+
+.dataviz_gallery{
+  width: 55%;
+  height:150%;
+  position: absolute;
+  top: 60%;
+  left: 22.5%;
+  border: 3px solid white;
+
+}
+
+.gallery1{
+  position: absolute;
+  width: 55%;
+  left: 0;
+  border: 3px solid #2f2d73;
+  margin: 5px
+}
+
+.gallery2{
+  width: 40%;
+  border: 3px solid #2f2d73;
+  margin: 5px;
+  position: absolute;
+  top: 0%;
+  left: 58%;
+}
+
+.gallery3{
+  width: 40%;
+  border: 3px solid #2f2d73;
+  margin: 5px;
+  position: absolute;
+  top: 8%;
+  left: 58%;
+
+}
+
+.gallery4{
+  width: 55%;
+  border: 3px solid #2f2d73;
+  margin: 5px;
+  position: absolute;
+  top: 14%;
+  left: 0%;
+
+}
+
+.gallery5{
+  width: 40%;
+  border: 3px solid #2f2d73;
+  margin: 5px;
+  position: absolute;
+  top: 18%;
+  right: 0%;
+
+}
+
+.gallcaption{
+  color: #808080;
+  font-family: 'Roboto', sans-serif;
+  font-size: 13px;
+  text-align: center;
+  font-weight: 600;
+  line-height: 2.0;
+  position: absolute;
+  left: 15%;
+  top: 26.5%;
+  width: 70%;
+}
+
+a{
+  color: #808080;
+  font-family: 'Roboto', sans-serif;
+}
+
+.click{
+  width: 20%;
+  position: absolute;
+  top: 97%;
+  right: 5%;
+  transform: rotate(15deg)
+}
+
+.nyhan{
+  color: #d4d4d4;
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+  text-align: center;
+  font-weight: 600;
+  line-height: 2.0;
+  position: absolute;
+  top: 36.5%;
+  left: 0%;
+  width: 98%;
+  height: auto;
+  border: 3px solid #d4d4d4;;
+}
+
+h2{
+  text-decoration: underline;
+  padding: 5px;
+}
+
+.poster{
+  width: 85%;
+  border: 3px solid #d4d4d4;;
+  position: absolute;
+  top: 56.5%;
+  left: 7.5%;
+
+}
+
+.poster_caption{
+  color: #d4d4d4;;
+  font-family: 'Roboto', sans-serif;
+  font-size: 13px;
+  text-align: center;
+  font-weight: 600;
+  line-height: 2.0;
+  position: absolute;
+  left: 10%;
+  top: 75%;
+  width: 80%;
+}
+
+.twoseventy{
+  width: 55%;
+  height:70%;
+  position: absolute;
+  top: 220%;
+  left: 22.5%;
+  border: 3px solid white;
+}
+
+.logo_270{
+  width: 70%;
+  margin-top: 5%;
+}
+
+.other_dartmouth{
+  position: absolute;
+  top: 85%;
+}
+
+.skills{
+  width: 50%;
+  margin-left: 25%;
+}
+
+.glossier{
+  width: 55%;
+  height:70%;
+  position: absolute;
+  top: 300%;
+  left: 22.5%;
+  border: 3px solid white;
+}
+
+.logo_glossier{
+  width: 60%;
+  margin-top: 5%;
+}
+
+.skills_text{
+  font-family: 'Roboto', sans-serif;
+  color: #d4d4d4;
+  letter-spacing: 1.7px;
+  margin-top: 2%;
+
+
+}
