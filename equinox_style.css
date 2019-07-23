@@ -39,9 +39,10 @@ h1{
   width: 55%;
   height: auto;
   position: absolute;
-  top: 40%;
+  top: 35%;
   left: 22.5%;
   border: 3px solid white;
+  line-height: 1.5
 }
 
 .text{
@@ -58,7 +59,7 @@ h1{
   position: absolute;
   top: 60%;
   left: 22.5%;
-  border: 3px solid white;
+
 
 }
 
@@ -66,13 +67,13 @@ h1{
   position: absolute;
   width: 55%;
   left: 0;
-  border: 3px solid #2f2d73;
+  border: 3px solid #d4d4d4;
   margin: 5px
 }
 
 .gallery2{
   width: 40%;
-  border: 3px solid #2f2d73;
+  border: 3px solid #d4d4d4;
   margin: 5px;
   position: absolute;
   top: 0%;
@@ -81,7 +82,7 @@ h1{
 
 .gallery3{
   width: 40%;
-  border: 3px solid #2f2d73;
+  border: 3px solid #d4d4d4;
   margin: 5px;
   position: absolute;
   top: 8%;
@@ -91,7 +92,7 @@ h1{
 
 .gallery4{
   width: 55%;
-  border: 3px solid #2f2d73;
+  border: 3px solid #d4d4d4;
   margin: 5px;
   position: absolute;
   top: 14%;
@@ -101,7 +102,7 @@ h1{
 
 .gallery5{
   width: 40%;
-  border: 3px solid #2f2d73;
+  border: 3px solid #d4d4d4;
   margin: 5px;
   position: absolute;
   top: 18%;
@@ -118,7 +119,7 @@ h1{
   line-height: 2.0;
   position: absolute;
   left: 15%;
-  top: 26.5%;
+  top: 27%;
   width: 70%;
 }
 
@@ -129,7 +130,7 @@ a{
 
 
 .nyhan{
-  color: #d4d4d4;
+  color: #ffffff;
   font-family: 'Roboto', sans-serif;
   font-size: 15px;
   text-align: center;
@@ -140,7 +141,7 @@ a{
   left: 0%;
   width: 98%;
   height: auto;
-  border: 3px solid #d4d4d4;;
+  border: 3px solid #ffffff;;
 }
 
 h2{
@@ -177,6 +178,7 @@ h2{
   top: 220%;
   left: 22.5%;
   border: 3px solid white;
+  line-height: 1.3;
 }
 
 .logo_270{
@@ -186,7 +188,8 @@ h2{
 
 .other_dartmouth{
   position: absolute;
-  top: 85%;
+  top: 83%;
+  line-height: 1.5;
 }
 
 .skills{
@@ -201,6 +204,7 @@ h2{
   top: 300%;
   left: 22.5%;
   border: 3px solid white;
+  line-height: 1.3;
 }
 
 .logo_glossier{
@@ -213,16 +217,18 @@ h2{
   color: #d4d4d4;
   letter-spacing: 1.7px;
   margin-top: 2%;
+  line-height: 1.5;
 
 }
 
 .equinox{
   width: 55%;
-  height:70%;
+  height:35%;
   position: absolute;
-  top: 380%;
+  top: 430%;
   left: 22.5%;
   border: 3px solid white;
+  line-height: 1.5;
 }
 
 .drawn_logo{
@@ -237,6 +243,7 @@ h2{
   position: absolute;
   top: 65%;
   left: 2%;
+  line-height: 1.5;
 }
 
 .click_me{
@@ -246,4 +253,58 @@ h2{
   line-height: 1.8
   margin: 5px;
   text-align: center;
+}
+
+.keyrus{
+  width: 55%;
+  height:40%;
+  position: absolute;
+  top: 380%;
+  left: 22.5%;
+  border: 3px solid white;
+}
+
+.logo_keyrus{
+  width: 40%;
+  margin-top: 3%;
+  margin-left: 3%;
+}
+
+.letter{
+  width: 40%;
+  margin-left: 30%;
+  border: 3px solid #ffffff;
+  margin-top: 10%;
+}
+
+
+.goodbye{
+  width: 55%;
+  height:20%;
+  position: absolute;
+  top: 465%;
+  left: 22.5%;
+  line-height: 1.5;
+  margin-bottom: 5%;
+
+}
+
+.made{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    letter-spacing: 10px;
+    font-size: 15px;
+    text-align: center;
+    margin: 4%;
+    border: 3px solid white;
+
+}
+
+.linkedin{
+  width: 7%;
+  margin: 15% 5% 0% 40%;
+}
+
+.email{
+  width: 8%;
 }
